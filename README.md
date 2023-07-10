@@ -10,7 +10,6 @@ Awesome books: plain JavaScript with objects
   - [🛠️ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -49,12 +48,6 @@ Awesome Books is a simple web application that allows users to manage their book
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Live Demo <a name="live-demo"></a>
-
-🚀 Live Demo
-Link to our deployed project.
-
-- You can visit the live demo [here](https://javieraybar.github.io/Awesome-books-ES6/)
 
 <!-- GETTING STARTED -->
 
