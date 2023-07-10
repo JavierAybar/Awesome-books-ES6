@@ -1,4 +1,4 @@
-import { DateTime } from '../node_modules/luxon/src/luxon.js';
+import { DateTime } from '../luxon/src/luxon.js';
 
 const getTime = () => {
   const currentTime = DateTime.now().setZone('America/Argentina/Buenos_Aires');
