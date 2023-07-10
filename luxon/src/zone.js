@@ -1,4 +1,7 @@
-import { ZoneIsAbstractError } from "./errors.js";
+/* eslint-disable no-unused-vars */
+/* eslint-disable max-len */
+/* eslint-disable class-methods-use-this */
+import { ZoneIsAbstractError } from './errors.js';
 
 /**
  * @interface
@@ -9,6 +12,7 @@ export default class Zone {
    * @abstract
    * @type {string}
    */
+  // eslint-disable-next-line class-methods-use-this
   get type() {
     throw new ZoneIsAbstractError();
   }
@@ -18,6 +22,7 @@ export default class Zone {
    * @abstract
    * @type {string}
    */
+  // eslint-disable-next-line class-methods-use-this
   get name() {
     throw new ZoneIsAbstractError();
   }
